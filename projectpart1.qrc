@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/Sulthans-special-Biryani.jpg</file>
+        <file>img/5783153.jpg</file>
+    </qresource>
+</RCC>
